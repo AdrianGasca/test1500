@@ -1,0 +1,7 @@
+{
+  "name": "AutoCheck",
+  "description": "Un inspector de limpieza impulsado por IA para limpiadores de apartamentos. Sube fotos para obtener un puntaje de limpieza y consejos prácticos para lograr la perfección.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
